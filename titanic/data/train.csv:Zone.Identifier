@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.kaggle.com/c/titanic/data?select=train.csv
+HostUrl=https://storage.googleapis.com/kagglesdsdata/competitions/3136/26502/train.csv?GoogleAccessId=web-data@kaggle-161607.iam.gserviceaccount.com&Expires=1608291186&Signature=kPr70iubIyXchJaNihTA1sxHhMuC9UN1%2FdbbRcAloRIIAh1aY1vvrmjU4SHI263BzT%2F%2FQqrjZQyV4kCAm4KZKfiVV%2Fr9iM9QbqHW4anguHCUtOP2r%2F80D2AZXECMQWdbIlMRG9h4gCIxUtXrLb3VVzqAP3KoK02EbLCRHKDoRBCZwJSgEjpkvREnnbjokyf8X1H8zlNSdOp%2Bx1qTZZ53Xhh0x4Z2eNUOnDZxbRGfw%2BYKaacab%2B8codqtR9KTfwmLqwXanY2GSBnBLBo5Gu588rnW5Lcu%2FncCsIKKt64jAIk1Y8H5yLQEuOo7scNjT24x2j9sBeVPfEyPdBxT90xhug%3D%3D&response-content-disposition=attachment%3B+filename%3Dtrain.csv
